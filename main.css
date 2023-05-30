@@ -1,0 +1,27 @@
+form{
+    margin-left: 20px;
+}
+.abc{
+    color: rgb(92, 24, 24);
+}
+label{
+    font-size: 20px;
+   
+    
+}
+input{
+    font-size: 15px;
+    color: rgb(18, 19, 20);
+    background-color: aliceblue;
+    border-radius: 8px;
+}
+button{
+    font-size: 20px;
+   color: rgb(47, 42, 42);
+   border: 3px;
+   padding: 10px 40px;
+   border-radius: 10px;
+  border: 3px ;
+  background-color:rgb(182, 203, 211);
+}
+
